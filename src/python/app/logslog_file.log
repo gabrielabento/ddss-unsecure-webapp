@@ -1,0 +1,3439 @@
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 278-726-937
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 278-726-937
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 278-726-937
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 278-726-937
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-585-432
+INFO:werkzeug:172.19.0.1 - - [18/Dec/2020 15:03:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [18/Dec/2020 15:03:43] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:172.19.0.1 - - [18/Dec/2020 15:03:45] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:52:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:52:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:02] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> c8b06ec2b6b04d9bc5a8a975b9af35372ef99689d3a68917684f2ec94d1de532502ba61d3c7ea02c2e9278bb7e59f9924fb19e5522cf42d8ecf37fde90c857b3eca9a22912cc178c47708e2161db8844f650f9c6b36a05a4af89a16445baa438
+INFO:logger:v_username  -> test
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?v_username=test&v_password=test&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:53:13] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:56:54] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> d42728edaa7d76c008a7e6056ceb703dccd01609a89414ebb54c7aa76d95c5711dd045468f612ef0b9756129181d2fcfd94cb2ae95ecf866bc41c8b50e051e003c37b2051da1c1455c743bbed2d2bf6678a03e4d700b3b4d4ac96981817c8927
+INFO:logger:v_username  -> test
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:57:01] "GET /part1_vulnerable?v_username=test&v_password=test&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:58:17] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> e5e66bd678fb0a6d78bb36b73a65881a2317caca1b0b5c9f353f19bca55a27282f9f6351af42e5a46bcced8dc1f873baafd2b8bd94e077db287ceacfadc9d5210f08ba8de68da60ee3e78cbff0eff99b14107381fbad7a1096f7011bf6aa090b
+INFO:logger:v_username  -> test
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 20:58:25] "GET /part1_vulnerable?v_username=test&v_password=tst&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> b57b5117bdef98d4e8a96239777036224db3db1b1bebd1745de9af202407061e74047754a4ab132133a12803eb40c3607c773b85926c27e8e2c048b303d651811ced56cb10c7ceeda911ef5676e71ba5f0619a6807d208f3aefbf735afbb6aea
+INFO:logger:v_username  -> ' OR 1=1 
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?v_username=%27+OR+1%3D1+&v_password=teste&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> f6eb80ea2dfac60b9433647dc786cee866069223f49588897c7f589ac94e39c7d1b345373050043c9f947dc7607a59fb6a3370adfd580033758c843a03026ab18b464efccd8236752288ddd27ccec23a78c6cbf29ea088f697b2f553ae0e928d
+INFO:logger:v_username  -> ' OR 1=1'
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?v_username=%27+OR+1%3D1%27&v_password=testes&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> d34993152faf405060df73aec6eaa367c780a8d71e9e58bb0e96e04604ee3cfcc26fd0f9fb478f5ad5889c32fb248804af3572a8ec3edc20f4b8ddc1fc1ac7c50bd7b1d742d775db37e731413f75654454c9dfbfabe31685a6d384b303adb194
+INFO:logger:v_username  -> ' OR 1=1 "
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:44] "GET /part1_vulnerable?v_username=%27+OR+1%3D1+%22&v_password=testes&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:45] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:45] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [09/Jan/2021 23:12:45] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:46:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:46:30] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:46:34] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 45874aa680ca6959e0645f48400cb1f2230b306e5399bdce604d6fa43791db4a7f905fa0b9c81117f69ba61e83efb9df0cbd1202576003106a1c7d0630262188b6c4dbb6f21cb0c1133aa44be371f3a8b2f9305dafc009fa992416a4845a740d
+INFO:logger:v_username  -> ';
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?v_username=%27%3B&v_password=akj&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:50:41] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> ae2e83781de539b7230d6894b8406b0335ee1e57e24b0c2185d013ec45f999cca7fc1b5f9feb28e12873153fd0875eb61f8d76956939596dec7ee1540b07e9fe2c67dc3c4af991ec962ea8c465e488d2d88926d020efe323f89b8bc672ada7ef
+INFO:logger:v_username  -> '" or ""="
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?v_username=%27%22+or+%22%22%3D%22&v_password=%22+or+%22%22%3D%22&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 19:52:04] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:02:22] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 15fe9b20747685f76126930b039bbd91dc32726dae451a28717151a5bfaccd2e1b9b57b924918b1f9ddb2400d984aa9873b58699e31593c8cc17a3946aa9ded6edca1fa4e58ca6031d7e6cf4cd1290d7af42c40fdc181cbf3cfbaba779e15353
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:02:58] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 252973a36884d534ccf57b67c02cbfc3f874a9a6dc575b690eb7422dd7e53e2d8ab303b15d8f6b55317060b44b50c47aaf69986cfeb8b6be8aeb0d9edbb7b7c9726ae6460292956641cd8cc66f10bc56fb3405cce9700fc155163cbe48897c58
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:03:30] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:03:36] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 5e0b532e3ac0501593cdcf9cedeca446a322b7a8fe905eef128749268bc552633a62d64f7366076d7f2c2d8747360157b25ad3ee03807d36c33095b3c30c727ef5ba9a6be421b640d3b0d03f4e7bc7cca60356c08633e2817f891176008af835
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:03:48] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:09:36] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 41f3ec6607c65e9d7580cf789f9e49fa24060c758db5d10821ce76c729f7bcc1e82b72999527eb5aa6331a59873c9443c1b0ddf28e429e6bea83e800e10d73e39c1dd1958c5e18bff6b7a6769479a1a9dfab627e3fe4e0c14c93d234f13d9bb2
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:09:43] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=nm+&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 4d058d7e5b59547009925d775501095fbaaa3c1eecd8d6909ae998c1f9a015c7195bb13b0215315ff082105f6fc9536da08116c29022fc52c868b06224adcc18890706680bf1124d9519e88b7f83e36216eb559d3a0f3295d0f3923b790199a8
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=nm+&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:10:25] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:11:03] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> b6dbc724d5abd923c3c4d1fb937d2ac8f48e0ee18427335086150988d442fde26b75066cb5d12c89a4d2d9021ddd4e261c93bdb57fa5e9f35ce8e0f7d2a7c55beff40e580fca86c827fbba3d69471d9af4d6ed9ce230da2e17d0bf9a90317015
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:11:10] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=nm%2C&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:17:53] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 3130712686d9d924d9a68242d38db1ac8cec05447af9b01cad07669d71b8b3ebf2bd4ecd5d49f1b6d72b21a4b7c0f4250000025c232965b04597e110967cf7f69e0378e6c6c8551e3e5f41bce62155cb71404e8f9cfa0fe68be36fa48061fdb0
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:18:00] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=erty&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:31:32] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> a726fc34126319a39c9ffc452f6afd19d1dd30b2ec8180598545966c30d3813f0ee1b4c7a6c782e97f8e623c51155cd7177f120abfaf7ba7de0a1533f62c1fc721a68c6fbc1c8974ca6505ff08ba067172b72585301a9fbc152e632080793a07
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:31:40] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> a5a9ee6a8a470cdba748aee8c29bbbc926d68cf176b8f881e3227507df8452c0703816dddeedbae1a3212876fd5c7bd1784760c8077da3b0b4996146b1652fb5253b2a0c941e5d8c6b75801acd0da3c31e44def3b51afcbf81ff2c43eb3fd747
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:33:39] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:33:42] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> a8942e67025f4c3ea4bc5c5629ad3c22d5b680ad5a0161ac3d7cdd49e42c523a618a103e31cc63a4da91840361980061a173bd5dbb7e2bc92be6157dcc28b2459a3bcb72ad49742608fadca6e1684716ab6d35d1c67ca477d8a2037bc70eaf03
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:33:52] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 7f55ef74375afb9c60eea959ad0013d93b40259ec04c1d4ba587b99b42cc382f8832355d8f537d4e6f125500b37f376bf0c20cb48b6a1c9b42a381870e2e7ffcf9aba5db3e8c36727c05932cbc7f93bd410f8e1e670f310da37bce5a1fc6ed2f
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:34:09] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:34:31] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> ae7f62df4150469ba31b2e27f4b940c9c8e9a19e060a2f852902fa25d955403182f0d1b893e7eb1a8563d5e0e3ec51ca441dc8d4499e97ba5fe0ef2dd4c46756b66fb18fc230c1b7775a09adc33c79fcf39e5c55620620cb731b0546a1b8965b
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:34:38] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:38:37] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> b02f32650f7ec55e9248f7e8b3d225e5208822222a0990ea9166230dd4adabbc10a54bb48c075e8b6879d0662948a44596d2d62344fb475663ee5aab15f083566210dec8abd559920e2c371c1b8a4381d689b95ea8e39faf7175d7a0c32a6e9d
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:38:43] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 49a2eb174f935be6a2391ef7352d28194d54f7ae14aa6976a802574a45749232ca2d9a20cf7f58b2b2c80014f1dcfa1167a7f86a061488a5455ca41a6c9b17fdb03446626ecc2750df5ddbba1a21963ea06e8a8d124409440277cdf41fdb89f8
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:39:29] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:41:02] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> c98322037b290086e338b13df79f795709865192480a8cac5d315a709e24ddcb9b42fb03531f305865a2c3a8c702760bce66f0cfcb6a1e9bb93b0755942abcb01b868478b59cfbaa99fbf94a988e59d9f20a1215e072704bcf1b9f7a86f46f92
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [13/Jan/2021 20:41:10] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-643-015
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:42:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:42:59] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:01] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=1%27+OR+1%3D1+--+-&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:43:10] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=1%27+OR+1%3D1+--+-&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:49:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:55:31] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:34] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:58:43] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:39] "GET /part1.html HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 22:59:54] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 238-930-885
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:44:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:44:05] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:44:09] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user 
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:44:36] "GET /part1_vulnerable?v_username=user+&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> fse
+INFO:logger:v_username  -> kjfbjeh
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:44:43] "GET /part1_vulnerable?v_username=kjfbjeh&v_password=fse&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> tfhf
+INFO:logger:v_username  -> hf
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:45:06] "GET /part1_vulnerable?v_username=hf&v_password=tfhf&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:logger:---- part1_vulnerable ----
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:47] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:49:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:17] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:24] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:51] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [14/Jan/2021 23:50:59] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:37:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:38:44] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:38:49] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> sdasd
+INFO:logger:v_username  -> sdas
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:39:36] "GET /part1_vulnerable?v_username=sdas&v_password=sdasd&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:19] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:46:28] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 192-777-201
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:54:57] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:55:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:57:59] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:58:47] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 14:59:48] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:02:16] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-027-574
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:03:17] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-937-338
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:53] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:05:58] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '123', '')]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:10:38] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-937-338
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:08] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '123', '')]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:13:12] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-186-258
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:41] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '123', '')]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:17:44] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-186-258
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '123', '')]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:18:20] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-186-258
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:07] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '123', '')]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:19:11] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:28:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:28:05] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:ok
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:28:08] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:ok
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:17] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> kdfgew
+INFO:logger:v_username  -> hjgehv
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?v_username=hjgehv&v_password=kdfgew&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:29:36] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> dede
+INFO:logger:v_username  -> hjgehv
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?v_username=hjgehv&v_password=dede&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:30:49] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> vdvd
+INFO:logger:v_username  -> hjgehv
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?v_username=hjgehv&v_password=vdvd&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:31:15] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> ce
+INFO:logger:v_username  -> hjgehv
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?v_username=hjgehv&v_password=ce&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:14] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> rgd
+INFO:logger:v_username  -> hjgehv
+INFO:logger:v_remember  -> on
+INFO:logger:aqui
+INFO:logger:[]
+INFO:logger:aqui2
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:32:47] "GET /part1_vulnerable?v_username=hjgehv&v_password=rgd&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=123&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:35:54] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=12121&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:37:35] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=wdwdw&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:38:37] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=qqq&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:50] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> ww
+INFO:logger:v_username  -> rw
+INFO:logger:v_remember  -> on
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:39:59] "GET /part1_vulnerable?v_username=rw&v_password=ww&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> eeee
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:not here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:23] "GET /part1_vulnerable?v_username=user&v_password=eeee&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:34] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:42] "GET /part1_correct?c_username=www&c_password=wwww&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:43] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:43] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:43] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:43] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 15:40:43] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:39:46] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:40:00] "GET /part2_vulnerable?v_text=+++++++++++++++++++++++++test+++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 548-402-651
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:15] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 18:58:23] "GET /part1_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:02:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:02:34] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:02:40] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:02:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:02:51] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?c_username=user&c_password=123&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:03:06] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:40] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?c_username=user&c_password=123&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:04:47] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:15] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?c_username=user&c_password=123&c_remember=on HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:05:22] "GET /part1_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:07:22] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> user
+INFO:logger:c_remember  -> on
+INFO:logger:here2
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:07:29] "GET /part1_correct?c_username=user&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:07:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:08:00] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> 1' OR 1=1 -- -
+INFO:logger:c_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:08:06] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> 1' OR 1=1 -- -
+INFO:logger:c_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:08:18] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:logger:[('user', '$2b$12$t9xpSQMN2U09yaDDbHonu.iZ4EL5EiIOnQQWniBAcBRigSjTT65om', '')]
+INFO:logger:here
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:08:28] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:10:05] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> 1' OR 1=1 -- -
+INFO:logger:c_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:10:20] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:11:49] "GET /part1.html HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> 1' OR 1=1 -- -
+INFO:logger:c_remember  -> on
+INFO:logger:No user found!
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:11:56] "GET /part1_correct?c_username=1%27+OR+1%3D1+--+-&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_correct ----
+INFO:logger:c_password  -> 123
+INFO:logger:c_username  -> user
+INFO:logger:c_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:12:09] "GET /part1_correct?c_username=user&c_password=123&c_remember=on HTTP/1.1" 200 -
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> 1' OR 1=1 -- -
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:12:25] "GET /part1_vulnerable?v_username=1%27+OR+1%3D1+--+-&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:logger:---- part1_vulnerable ----
+INFO:logger:v_password  -> 123
+INFO:logger:v_username  -> user
+INFO:logger:v_remember  -> on
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:53:53] "GET /part1_vulnerable?v_username=user&v_password=123&v_remember=on HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 19:55:49] "GET /part2_vulnerable?v_text=+++++++++++++++++++++chjbdjehe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:00:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:00:50] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                                tst
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:01:00] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++tst HTTP/1.1" 200 -
+INFO:logger: tste
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:01:19] "GET /part2_correct?c_text=+tste HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:05:03] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                                test
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:05:11] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++test HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-143-113
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:07] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                                test
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++test HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:28:16] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:logger:test
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?v_text=test HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:31:51] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:logger:test
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:33:31] "GET /part2_vulnerable?v_text=test HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:logger:test
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:34:48] "GET /part2_vulnerable?v_text=test HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-905-069
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:36:11] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger: test       
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:36:21] "GET /part2_vulnerable?v_text=+test+++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:logger: test       
+INFO:logger:<html><head></head><body>test</body></html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:36:49] "GET /part2_vulnerable?v_text=+test+++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:logger: test       
+INFO:logger:<html><head></head><body>test</body></html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:38:44] "GET /part2_vulnerable?v_text=+test+++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:logger: test       
+INFO:logger:<body>test</body>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:39:35] "GET /part2_vulnerable?v_text=+test+++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:logger: test       
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:41:07] "GET /part2_vulnerable?v_text=+test+++++++ HTTP/1.1" 200 -
+INFO:logger:hbhjknjl
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:42:16] "GET /part2_vulnerable?v_text=hbhjknjl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-912-722
+INFO:logger:jb njkml,ç.      
+INFO:logger:<body>test</body>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:42:42] "GET /part2_vulnerable?v_text=jb+njkml%2Cç.++++++ HTTP/1.1" 200 -
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:46:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:46:09] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:46:11] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:asdkkjhvbnjdmk
+INFO:logger:<body>test</body>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:46:21] "GET /part2_vulnerable?v_text=asdkkjhvbnjdmk HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:asdkkjhvbnjdmk
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?v_text=asdkkjhvbnjdmk HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:47:13] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:asdkkjhvbnjdmk
+INFO:logger:<body>test</body>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:48:09] "GET /part2_vulnerable?v_text=asdkkjhvbnjdmk HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:rdfghjk
+INFO:logger:<html><head></head><body>test</body></html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:51:27] "GET /part2_vulnerable?v_text=rdfghjk HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:rdfghjk
+INFO:logger:<body>test</body>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:52:25] "GET /part2_vulnerable?v_text=rdfghjk HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:rdfghjk
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?v_text=rdfghjk HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:53:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:56:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:56:48] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                                dfs,hfe
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:56:52] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++dfs%2Chfe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:                                dfs,hfe
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 20:58:55] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++dfs%2Chfe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:                                dfs,hfe
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:00:34] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++dfs%2Chfe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:dfghjkl
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:02:07] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:logger:dfghjkl
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+  dfghjkl
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:03:38] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 257-826-225
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfghjkl
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+  &lt;!DOCTYPE html&gt; &lt;!-- ========================================= Design and Development of Secure Software ============= MSI 2019/2020 ============= ======== Practical Assignment #2 ======== ================ Part #1 ================ ========================================= Department of Informatics Engineering University of Coimbra Prof. Marco Vieira &lt;mvieira@dei.uc.pt&gt; Prof. Nuno Antunes &lt;nmsa@dei.uc.pt&gt; --&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;DDSS PA2 - Part 1.2&lt;/title&gt; &lt;meta charset="UTF-8"&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt; &lt;!-- V2 info: - corrected a few naming bugs in the inputs - fixed a few syntax issues in the HTML - added some explanations --&gt; &lt;/head&gt; &lt;body&gt; &lt;div align="center"&gt; &lt;h1&gt;Design and Development of Secure Software&lt;/h1&gt; &lt;h2&gt;Practical Assignment #2 - Part 1.2 &lt;/h2&gt; &lt;div align="center"&gt; DISCLAIMER: This code is to be used in the scope of the &lt;em&gt;DDSS&lt;/em&gt; course. &lt;b&gt;Important:&lt;/b&gt; these sources are merely suggestions of implementations. You should modify everything you deem as necessary and be responsible for all the content that is delivered. &lt;em&gt;The contents of this repository do not replace the proper reading of the assignment description.&lt;/em&gt; &lt;/div&gt; &lt;br&gt; &lt;br&gt; &lt;form action="/part2_vulnerable"&gt; &lt;table style="width: 500px ; background-color:#f1f1f1" border="1" cellpadding="1" &gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt; &lt;b&gt;Part 2.0 - Vulnerable Form&lt;/b&gt; &lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;textarea style="width: 100%; height: 100px" placeholder="Enter Text" name="v_text" required&gt; &lt;/textarea&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align="right"&gt;&lt;button type="submit"&gt;Submit&lt;/button&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;/form&gt; &lt;br&gt; &lt;br&gt; &lt;form action="/part2_correct"&gt; &lt;table style="width: 500px ; background-color:#f19191" border="1" cellpadding="1" &gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;b&gt;Part 2.1 - Correct Form&lt;/b&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;textarea style="width: 100%; height: 100px" placeholder="Enter Text" name="c_text" required&gt; &lt;/textarea&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align="right"&gt;&lt;button type="submit"&gt;Submit&lt;/button&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;/form&gt; &lt;br&gt; &lt;br&gt; &lt;table style="width: 500px" border="1" cellpadding="1" &gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;b&gt;Output Box&lt;/b&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt; &lt;em&gt;You should print the text here. Some examples below. These examples should be replaced by the information you obtain from the database.&lt;/em&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Vulnerable: Hi! I wrote this message using Vulnerable Form. &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Correct: OMG! This form is so correct!!! &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Vulnerable: Oh really? &lt;script&gt; window.alert('Is it?'); &lt;/script&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:09:53] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfghjkl
+INFO:logger:<html>
+ <head>
+ </head>
+ <body>
+  test
+ </body>
+</html>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:10:39] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                       jgsj         
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?v_text=+++++++++++++++++++++++jgsj+++++++++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:01] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfghjkl
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:logger:dfghjkl
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:14:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfghjkl
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:17:31] "GET /part2_vulnerable?v_text=dfghjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                                a
+INFO:logger:None
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:19:10] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++a HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              sds  
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:23:19] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++sds++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfs
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?v_text=dfs HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:24:12] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:dfs
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?v_text=dfs HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:07] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:31] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                              ada  
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:25:36] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                       da         
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:26:01] "GET /part2_vulnerable?v_text=+++++++++++++++++++++++da+++++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:     a                           
+INFO:logger:[]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:26:20] "GET /part2_vulnerable?v_text=+++++a+++++++++++++++++++++++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:27:14] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:28:41] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:29:11] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:36] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:37] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:37] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:30:54] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:18] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:35] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:35] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:36] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                              ada  
+INFO:logger:<!DOCTYPE html>
+
+<!--
+
+    =========================================
+    Design and Development of Secure Software
+    ============= MSI 2019/2020 =============
+    ======== Practical Assignment #2 ========
+    ================ Part #1 ================
+    =========================================
+
+      Department of Informatics Engineering
+              University of Coimbra          
+   
+    Prof. Marco Vieira <mvieira@dei.uc.pt>
+    Prof. Nuno Antunes <nmsa@dei.uc.pt>
+   
+-->
+<html>
+<head>
+<title>DDSS PA2 - Part 1.2</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!--
+            V2 info:
+            - corrected a few naming bugs in the inputs
+            - fixed a few syntax issues in the HTML
+            - added some explanations
+        -->
+</head>
+<body>
+<div align="center">
+<h1>Design and Development of Secure Software</h1>
+<h2>Practical Assignment #2 - Part 1.2 </h2>
+<div align="center">
+                DISCLAIMER: This code is to be used in the scope of the <em>DDSS</em> course.
+                <b>Important:</b> these sources are merely suggestions of implementations. 
+                You should modify everything you deem as necessary and be responsible for all the content that is delivered.
+                <em>The contents of this repository do not replace the proper reading of the assignment description.</em>
+</div>
+<br/>
+<br/>
+<form action="/part2_vulnerable">
+<table border="1" cellpadding="1" style="width: 500px ; background-color:#f1f1f1">
+<thead>
+<tr>
+<th>
+<b>Part 2.0 - Vulnerable Form</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><textarea name="v_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px">
+                                </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+</table>
+</form>
+<br/>
+<br/>
+<form action="/part2_correct">
+<table border="1" cellpadding="1" style="width: 500px ; background-color:#f19191">
+<thead>
+<tr>
+<th><b>Part 2.1 - Correct Form</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><textarea name="c_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px"> </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+</table>
+</form>
+<br/>
+<br/>
+<table border="1" cellpadding="1" style="width: 500px">
+<thead>
+<tr>
+<th><b>Output Box</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:32:58] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++ada++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:                                hjkl
+INFO:logger:<tbody>
+<tr>
+<td><textarea name="v_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px">
+                                </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:34:08] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++hjkl HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 218-299-126
+INFO:logger:fghjk
+INFO:logger:<tbody>
+<tr>
+<td><textarea name="v_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px">
+                                </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+&lt;tr&gt;&lt;td&gt;fghjk&lt;/td&gt;&lt;/tr&gt;</tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:38:15] "GET /part2_vulnerable?v_text=fghjk HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:39:20] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:<table border="1" cellpadding="1" style="width: 500px ; background-color:#f1f1f1">
+<thead>
+<tr>
+<th>
+<b>Part 2.0 - Vulnerable Form</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><textarea name="v_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px">
+                                </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+</table>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:44:12] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:[<table border="1" cellpadding="1" style="width: 500px ; background-color:#f1f1f1">
+<thead>
+<tr>
+<th>
+<b>Part 2.0 - Vulnerable Form</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><textarea name="v_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px">
+                                </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+</table>, <table border="1" cellpadding="1" style="width: 500px ; background-color:#f19191">
+<thead>
+<tr>
+<th><b>Part 2.1 - Correct Form</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><textarea name="c_text" placeholder="Enter Text" required="" style="width: 100%; height: 100px"> </textarea>
+</td>
+</tr>
+<tr>
+<td align="right"><button type="submit">Submit</button></td>
+</tr>
+</tbody>
+</table>, <table border="1" cellpadding="1" style="width: 500px">
+<thead>
+<tr>
+<th><b>Output Box</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+</tbody>
+</table>]
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:45:43] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:<table border="1" cellpadding="1" style="width: 500px">
+<thead>
+<tr>
+<th><b>Output Box</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+</tbody>
+</table>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:46:14] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+</tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:46:59] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+&lt;tr&gt;&lt;td&gt;                                j&lt;/td&gt;&lt;/tr&gt;</tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:47:41] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                j
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+&lt;tr&gt;&lt;td&gt;                                j&lt;/td&gt;&lt;/tr&gt;</tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:49:00] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++j HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:gjhbklm,
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+<gjhbklm,>gjhbklm,</gjhbklm,></tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 21:58:24] "GET /part2_vulnerable?v_text=gjhbklm%2C HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:                                ghjk
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+<tr><td>                                ghjk</td></tr></tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:02:00] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++ghjk HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:oi
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+<tr><td>oi</td></tr></tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?v_text=oi HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:03:31] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:logger:oi
+INFO:logger:<tbody>
+<tr>
+<td>
+<em>You should print the text here. Some examples below. 
+                                These examples should be replaced by the information you obtain from the database.</em>
+</td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Hi! I wrote this message using Vulnerable Form.
+                        </td>
+</tr>
+<tr>
+<td>
+                            Correct: OMG! This form is so correct!!!
+                        </td>
+</tr>
+<tr>
+<td>
+                            Vulnerable: Oh really?
+                            <script>
+                                window.alert('Is it?');
+                            </script>
+</td>
+</tr>
+<tr><td>oi</td></tr></tbody>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:05:09] "GET /part2_vulnerable?v_text=oi HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:08:11] "GET /part2.html HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-385-700
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:20:54] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:oi
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:21:01] "GET /part2_vulnerable?v_text=oi HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:10] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:sad
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?v_text=sad HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:29:27] "GET /part2_vulnerable?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:logger:sad
+INFO:logger:sim
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:30:03] "GET /part2_vulnerable?v_text=sad HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:logger:sad
+INFO:logger:<tr><td>sad</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:35:05] "GET /part2_vulnerable?v_text=sad HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:logger:sasd
+INFO:logger:<tr><td>sasd</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:35:41] "GET /part2_vulnerable?v_text=sasd HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:logger:sasd
+INFO:logger:<tr><td>sasd</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:43:41] "GET /part2_vulnerable?v_text=sasd HTTP/1.1" 200 -
+INFO:logger:                                Olá
+INFO:logger:<tr><td>                                Olá</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:43:47] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++Olá HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:46:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:46:44] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:Ola
+INFO:logger:<tr><td>Vulnerable: Ola</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:46:58] "GET /part2_vulnerable?v_text=Ola HTTP/1.1" 200 -
+INFO:logger:<script>
+window.alert('Is it?');
+</script>
+INFO:logger:<tr><td>Vulnerable: <script>
+window.alert('Is it?');
+</script></td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:47:51] "GET /part2_vulnerable?v_text=%3Cscript%3E%0D%0Awindow.alert%28%27Is+it%3F%27%29%3B%0D%0A%3C%2Fscript%3E HTTP/1.1" 200 -
+INFO:logger:<script>
+window.alert('OLA');
+</script>
+INFO:logger:<tr><td>Vulnerable: <script>
+window.alert('OLA');
+</script></td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 22:48:19] "GET /part2_vulnerable?v_text=%3Cscript%3E%0D%0Awindow.alert%28%27OLA%27%29%3B%0D%0A%3C%2Fscript%3E HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:16] "GET /part2.html HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?c_text=teste HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:03:32] "GET /part2_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:10] "GET /part2.html HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?c_text=teste%0D%0A HTTP/1.1" 500 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:16] "GET /part2_correct?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:36] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger: test
+INFO:logger:&lt;tr&gt;&lt;td&gt;Correct:  test&lt;/td&gt;&lt;/tr&gt;
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:04:42] "GET /part2_correct?c_text=+test HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:08:26] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger: test
+INFO:logger:&lt;tr&gt;&lt;td&gt;Correct:  test&lt;/td&gt;&lt;/tr&gt;
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:08:36] "GET /part2_correct?c_text=+test HTTP/1.1" 200 -
+INFO:logger:                 test               
+INFO:logger:<tr><td>Vulnerable:                  test               </td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:09:43] "GET /part2_vulnerable?v_text=+++++++++++++++++test+++++++++++++++ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:11:45] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:                                teste
+INFO:logger:<tr><td>Vulnerable:                                 teste</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:11:51] "GET /part2_vulnerable?v_text=++++++++++++++++++++++++++++++++teste HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:12:06] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger: teste
+INFO:logger:&lt;tr&gt;&lt;td&gt;Correct:  teste&lt;/td&gt;&lt;/tr&gt;
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:12:11] "GET /part2_correct?c_text=+teste HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-623-598
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:13:42] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:teste
+INFO:logger:<tr><td>Vulnerable: teste</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:13:49] "GET /part2_vulnerable?v_text=teste HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 189-788-857
+INFO:logger: teste
+INFO:logger:<tr><td>Correct:  teste</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:14:59] "GET /part2_correct?c_text=+teste HTTP/1.1" 200 -
+INFO:logger: tes
+INFO:logger:<tr><td>Correct:  tes</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:15:14] "GET /part2_correct?c_text=+tes HTTP/1.1" 200 -
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:15:41] "GET /part2.html HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 269-727-812
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 812-590-009
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 812-590-009
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:32:55] "GET /part2.html HTTP/1.1" 200 -
+INFO:logger:teste
+INFO:logger:<tr><td>Correct:teste</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:33:01] "GET /part2_correct?c_text=teste HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 812-590-009
+INFO:logger:<script>
+window.alert('OLA');
+</script>
+INFO:logger:<tr><td>Correct: &lt;script&gt;
+window.alert('OLA');
+&lt;/script&gt;</td></tr>
+INFO:werkzeug:172.19.0.1 - - [15/Jan/2021 23:34:03] "GET /part2_correct?c_text=%3Cscript%3E%0D%0Awindow.alert%28%27OLA%27%29%3B%0D%0A%3C%2Fscript%3E HTTP/1.1" 200 -

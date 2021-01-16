@@ -1,0 +1,25 @@
+#
+# Authors: Nuno Antunes <nmsa@dei.uc.pt>, João Antunes <jcfa@dei.uc.pt>
+#
+
+from python:3.8-alpine
+
+RUN apk update && apk add postgresql-dev gcc python3-dev musl-dev
+
+run pip install flask==0.10.1 html5lib==1.0b10 Jinja2==2.10 six==1.10.0
+
+run pip install psycopg2-binary
+
+RUN pip install gunicorn
+
+copy . /app
+
+volume ["/app"]
+
+workdir /app
+
+run mkdir -p logs
+
+EXPOSE 5000
+
+CMD ["gunicorn","-b", "0.0.0.0:5000", "app:app"]
