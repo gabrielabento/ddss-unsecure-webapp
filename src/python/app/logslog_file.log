@@ -1,0 +1,7 @@
+INFO:logger:
+---------------------
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-770-499
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
